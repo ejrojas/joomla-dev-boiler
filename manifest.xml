@@ -1,0 +1,12 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.5" method="upgrade">
+	<name>JDB</name>
+	<author>EJ Rojas</author>
+	<creationDate>#DATE#</creationDate>
+	<copyright>(c) 2018</copyright>
+	<license>GNU</license>
+	<authorEmail>#EMAIL#</authorEmail>
+	<version>0.1</version>
+	<description>This is a boilerplate for Joomla development</description>
+</extension>
